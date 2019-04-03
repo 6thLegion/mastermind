@@ -1,0 +1,13 @@
+{
+  "name": "mastermind-api",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon .server.js"
+  },
+  "description": "Mastermind API",
+  "dependencies": {
+    "body-parser": "1.18.3",
+    "express": "4.16.4",
+    "mongoose": "5.4.21"
+  }
+}

@@ -1,0 +1,15 @@
+.clavijas-container{
+  background-color: #fff;
+  width: 37%;
+  height: 19vh;
+  float: left;
+  color: #333;
+}
+
+.Secret {
+  float: left;
+}
+
+.Guess {
+  float: right;
+}

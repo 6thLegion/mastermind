@@ -1,0 +1,11 @@
+.App-content {
+  background-color: #3e7262;
+  min-height: 80vh;
+  font-size: 14px;
+  color: white;
+  padding: 32px;
+}
+
+.content-title {
+  margin: 0 0 32px;
+}
