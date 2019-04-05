@@ -1,9 +1,10 @@
 .clavijas-container {
   background-color: #fff;
-  width: 37%;
+  width: 38%;
   height: 19vh;
   float: left;
   color: #333;
+  border-radius: 6px;
 }
 
 .Result {

@@ -8,7 +8,7 @@ const Content = (props) => {
     <section className="App-content">
       <h2 className="content-title">{props.contentTitle}</h2>
       <ClavijasContainer type={'Result'} pattern={['negro', 'negro', 'blanco']} />
-      <ClavijasContainer type={'Guess'} pattern={['rojo', 'azul', 'rojo', 'rojo', 'rojo']} />
+      <ClavijasContainer type={'Guess'} pattern={['verde', 'azul', 'naranja', 'rojo', 'azul']} />
       <SecretCreation />
     </section>
   );

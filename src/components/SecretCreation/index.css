@@ -1,8 +1,18 @@
 .secret-creation-form {
-  margin: 32px;
+  margin: 32px 0;
   background-color: #fff;
-  width: 37%;
+  width: 38%;
   height: 19vh;
   float: left;
   color: #333;
+  border-radius: 6px;
+}
+
+.secret-creation-select {
+  margin: 12px;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  float: left;
+  cursor: pointer;
 }
