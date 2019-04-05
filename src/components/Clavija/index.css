@@ -4,7 +4,17 @@
   width: 50px;
   border-radius: 50%;
   float: left;
+  cursor: pointer;
 }
+
+.blanco {
+  background-color: white;
+}
+
+.negro {
+  background-color: black;
+}
+
 .verde {
     background-color: green;
 }
@@ -23,4 +33,8 @@
 
 .naranja {
   background-color: orange;
+}
+
+.gris {
+  background-color: #999;
 }

@@ -13,9 +13,9 @@ const ClavijasContainer = (props) => {
   return (
     <section className={`clavijas-container ${props.type}`}>
       <h3>{props.type}</h3>
-      {props.pattern.map((value) => {
+      {props.pattern.map((value, key) => {
         return (
-          <Clavija color={value} />
+          <Clavija color={value} key={key} />
         )
       })}
     </section>
